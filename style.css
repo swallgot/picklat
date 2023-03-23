@@ -65,7 +65,7 @@ img {
 }
 .jump {
     position: absolute;
-    /* animation: jump 1s alternate infinite; */
+    animation: jump 1s alternate infinite;
 }
 .jump-one {
     left: 170px;
